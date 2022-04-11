@@ -2,6 +2,8 @@
 
 A day in the life is a MERN stack application. Link to server repository https://github.com/danieldenton/day-in-life-server
 
+Deployed link https://preeminent-swan-c5baf2.netlify.app/feed
+
 # What is it?
 
 Do you ever miss the early days of social media? When each application focused more on user needs and less on pumping out a fancy new feature to keep up with their competition? A Day in the Life is a website that aims to make casual photo sharing more engaging again. This app shows you a feed of different users, with a slideshow of their posts, rather than an endless scroll of advertisements and sponsored posts designed to maximize your screen time past what you originally intended. This is based off the idea of engaging with the profile of specific users, to get a more in depth view of what is going on in a day in the life of the individual person. Once clicking on their profile, you will be given a list of all the photo's they've shared. All of these images will be clickable, allowing you to view the picture and share your thoughts!
